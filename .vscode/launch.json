@@ -1,0 +1,11 @@
+{
+    "configurations": [
+        {
+            "type": "java",
+            "name": "CodeLens (Launch) - MaxProductOfThree",
+            "request": "launch",
+            "mainClass": "MaxProductOfThree",
+            "projectName": "MaxProductOfThree_4fbdb0f0"
+        }
+    ]
+}
